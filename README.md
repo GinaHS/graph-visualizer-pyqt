@@ -27,4 +27,5 @@ pip install -r requirements.txt
 3. Ejecuta la aplicación:
 
 ```bash
-python Grafo1.py```
+python Grafo1.py
+```
