@@ -15,7 +15,7 @@
 Asegúrate de tener Python instalado en tu sistema. Para ejecutar este proyecto localmente, sigue estos pasos:
 
 1. Clona este repositorio en tu máquina local:
-   ```bash
+```bash
    git clone [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/tu-usuario/nombre-del-repo.git)
    cd nombre-del-repo
    ```
